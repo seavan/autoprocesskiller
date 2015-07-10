@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoProcessKillerService", "AutoProcessKillerService.csproj", "{CF37C55B-2F87-4CFE-886D-DE19747647F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoProcessKillerTest", "..\AutoProcessKillerTest\AutoProcessKillerTest.csproj", "{6D4A86E0-5D79-4371-AA45-5DCB2EA6F950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF37C55B-2F87-4CFE-886D-DE19747647F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF37C55B-2F87-4CFE-886D-DE19747647F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF37C55B-2F87-4CFE-886D-DE19747647F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF37C55B-2F87-4CFE-886D-DE19747647F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4A86E0-5D79-4371-AA45-5DCB2EA6F950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4A86E0-5D79-4371-AA45-5DCB2EA6F950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4A86E0-5D79-4371-AA45-5DCB2EA6F950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4A86E0-5D79-4371-AA45-5DCB2EA6F950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
